@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<img class="image image--xs" src="/default.png"/>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
