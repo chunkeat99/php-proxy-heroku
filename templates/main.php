@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>PHP-Proxy</title>
+<title>IamCK-Proxy</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	<a href="https://chunkeat.me/" target="_blank">chunkeat.me</a> 
 </div>
 
 
