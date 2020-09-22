@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<img src="/default.png"/ width="150" height="100">
+		<img src="/logo.png"/ width="150" height="100">
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
