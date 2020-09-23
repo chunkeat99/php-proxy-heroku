@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	<a href="https://chunkeat.me/" target="_blank">chunkeat.me</a> 
+	Powered by, an idiot from SKT, UTM
 </div>
 
 
