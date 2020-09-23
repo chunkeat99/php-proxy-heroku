@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by, an idiot from SKT, UTM
+	<h2>Powered by, an idiot from SKT, UTM</h2>
 </div>
 
 
