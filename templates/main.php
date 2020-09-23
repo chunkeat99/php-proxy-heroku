@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<link rel="icon" 
+    type="image/png" 
+    href="https://raw.githubusercontent.com/chunkeat99/youtube-downloader/master/favicon.png">
+	
 <title>IamCK-Proxy</title>
 
 <meta name="generator" content="php-proxy.com">
