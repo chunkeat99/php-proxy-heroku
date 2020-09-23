@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	<a style="color: #685e79" href="https://chunkeat.me/"><h2>chunkeat.me</h2></a><br>
+	<a style="color: #685e79" href="https://chunkeat.me/" target="_blank"><h2>chunkeat.me</h2></a><br>
 	<h2>Powered by, an idiot from SKT, UTM</h2>
 </div>
 
